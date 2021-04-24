@@ -16,3 +16,7 @@ docker run -it ghcr.io/kanmu/gocon2021-office-hour:latest /bin/bash
 ## ヒント
 
 https://github.com/kanmu/gocon2021_office_hour/issues/1
+
+## 解答
+
+https://github.com/kanmu/gocon2021_office_hour/issues/2
